@@ -1,0 +1,283 @@
+@book{Baines1983,
+  title={The dynamics of energy consumption: changing expectations for the supply of goods and services},
+  author={Baines, James Talbot and Peet, Nelson John},
+  year={1983},
+  publisher={Department of Chemical Engineering}
+}
+
+@article{Bernard2008,
+  title={GEMINI-E3, a general equilibrium model of international--national interactions between economy, energy and the environment},
+  author={Bernard, Alain and Vielle, Marc},
+  journal={Computational Management Science},
+  volume={5},
+  number={3},
+  pages={173--206},
+  year={2008},
+  publisher={Springer}
+}
+
+@article{Bodger1989,
+  title={The dynamics of primary energy substitution},
+  author={Bodger, Patrick S and Hayes, David J and Baines, James T},
+  journal={Technological Forecasting and Social Change},
+  volume={36},
+  number={4},
+  pages={425--439},
+  year={1989},
+  publisher={Elsevier}
+}
+
+@book{BP20xx,
+  title={Energy outlook},
+  author={BP},
+  year={1972-2015},
+  publisher={BP}
+}
+
+@article{Cleveland1984,
+     title = {Energy and the U.S. Economy: A Biophysical Perspective},
+     author = {Cleveland, Cutler J. and Costanza, Robert and Hall, Charles A. S. and Kaufmann, Robert},
+     journal = {Science},
+     volume = {225},
+     number = {4665},
+     pages = {890-897},
+     year = {1984},
+     publisher = {American Association for the Advancement of Science},
+}
+
+@book{Dale2010,
+  title={{Global Energy Modelling: A Biophysical Approach (GEMBA)}},
+  author={Dale, Michael},
+  year={2010},
+  publisher={University of Canterbury. Mechanical Engineering PhD thesis}
+}
+
+@article{Dale2012a,
+  title={Global energy modelling---A biophysical approach (GEMBA) part 1: An overview of biophysical economics},
+  author={Dale, M and Krumdieck, S and Bodger, P},
+  journal={Ecological Economics},
+  volume={73},
+  pages={152--157},
+  year={2012},
+  publisher={Elsevier}
+}
+
+@article{Dale2012b,
+  title={Global energy modelling---A biophysical approach (GEMBA) Part 2: Methodology},
+  author={Dale, M and Krumdieck, S and Bodger, P},
+  journal={Ecological Economics},
+  volume={73},
+  pages={158--167},
+  year={2012},
+  publisher={Elsevier}
+}
+
+@article{Dale2013,
+  title={{Energy Balance of the Global Photovoltaic (PV) Industry-Is the PV Industry a Net Electricity Producer?}},
+  author={Dale, Michael and Benson, Sally M},
+  journal={Environmental science \& technology},
+  volume={47},
+  number={7},
+  pages={3482--3489},
+  year={2013},
+  publisher={ACS Publications}
+}
+
+@article{Dale2013a,
+  title={A Comparative Analysis of Energy Costs of Photovoltaic, Solar Thermal, and Wind Electricity Generation Technologies},
+  author={Dale, Michael},
+  journal={Applied Sciences},
+  volume={3},
+  number={2},
+  pages={325--337},
+  year={2013},
+  publisher={Multidisciplinary Digital Publishing Institute}
+}
+
+@article{Dale2014,
+	title={Can we afford storage? A dynamic net energy analysis of renewable electricity generation firmed by energy storage},
+	author={Dale, M. and Barnhart, C. J. and Benson, S. M.},
+	journal={Energy \& Environmental Science},
+	volume={DOI:10.1039/C3EE42125B},
+	year={2014}
+}
+
+@book{EIA20xx,
+  title={Annual energy outlook},
+  author={Energy Information Administration},
+  year={1979-2015},
+  publisher={US Department of Energy}
+}
+
+@book{Exxon20xx,
+  title={Outlook for energy}},
+  author={ExxonMobil},
+  year={1972-2015},
+  publisher={ExxonMobil}
+}
+
+@article{Goodland1996,
+  title={Environmental sustainability: universal and non-negotiable},
+  author={Goodland, Robert and Daly, Herman},
+  journal={Ecological applications},
+  pages={1002--1017},
+  year={1996},
+  publisher={JSTOR}
+}
+
+@book{G-R1971,
+  title={The entropy law and the economic process},
+  author={Georgescu-Roegen, Nicolas},
+  year={1971},
+  publisher={Harvard University Press}
+}
+
+@article{Hardin1968,
+  title={The tragedy of the commons},
+  author={Hardin, Garrett},
+  journal={science},
+  volume={162},
+  number={3859},
+  pages={1243--1248},
+  year={1968},
+  publisher={American Association for the Advancement of Science}
+}
+
+@book{Heun2015,
+  title={Beyond GDP: National Accounting in the Age of Resource Depletion},
+  author={Heun, Matthew Kuperus and Carbajales-Dale, Michael and Haney, Becky Roselius},
+  volume={26},
+  year={2015},
+  publisher={Springer}
+}
+
+@inproceedings{Hounam1979,
+  title={STER-A Global Energy Supply Model},
+  author={Hounam, Ian and Unit, Energy Studies},
+  booktitle={Energy systems analysis: proceedings of the International Conference, held in Dublin, Ireland},
+  pages={9--11},
+  year={1979}
+}
+
+@article{Hu2010,
+  title={Analysis of multi-pollutant policies for the US power sector under technology and policy uncertainty using MARKAL},
+  author={Hu, Ming-Che and Hobbs, Benjamin F},
+  journal={Energy},
+  volume={35},
+  number={12},
+  pages={5430--5442},
+  year={2010},
+  publisher={Elsevier}
+}
+
+@book{IEA20xx,
+  title={World energy outlook},
+  author={International Energy Agency},
+  year={1994-2015},
+  publisher={OECD/IEA}
+}
+
+@book{IIASA2012,
+  title={{Global Energy Assessment: Toward a Sustainable Future}},
+  author={GEA},
+  year={2012},
+  publisher={University Press, Cambridge, UK and New York, NY, USA and the International Institute for Applied Systems Analysis, Laxenburg, Austria.}
+}
+
+@book{IPCC2000,
+   address = {Cambridge, UK},
+   title = {Special report on emissions scenarios},
+   author = {IPCC},
+   publisher = {Cambridge University Press},
+   year = {2000} 
+}
+   
+@misc{IPCC2014,
+  title={{Summary for policymakers. In: \textit{Climate change 2014: impacts, adaptation, and vulnerability. Part B: regional aspects. Contribution of Working Group II to the Fifth Assessment Report of the Intergovernmental Panel on Climate Change} [Field, C.B., V.R. Barros, D.J. Dokken, K.J. Mach, M.D. Mastrandrea, T.E. Bilir, M. Chatterjee, K.L. Ebi, Y.O. Estrada, R.C. Genova, B. Girma, E.S. Kissel, A.N. Levy, S. MacCracken, P.R. Mastrandrea, and L.L. White (eds.)]}},
+  author={IPCC},
+  year={2014},
+  publisher={Cambridge University Press, Cambridge, United Kingdom and New York, NY, USA},
+  pages={1--32}
+}
+
+@article{Klaassen2007,
+  title={Internalizing externalities of electricity generation: An analysis with MESSAGE-MACRO},
+  author={Klaassen, Ger and Riahi, Keywan},
+  journal={Energy Policy},
+  volume={35},
+  number={2},
+  pages={815--827},
+  year={2007},
+  publisher={Elsevier}
+}
+
+@article{Kohler2006,
+  title={Combining energy technology dynamics and macroeconometrics: the E3MG model},
+  author={K{\"o}hler, Jonathan and Barker, Terry and Anderson, Dennis and Pan, Haoran},
+  journal={The Energy Journal},
+  pages={113--133},
+  year={2006},
+  publisher={JSTOR}
+}
+
+@article{Meadows1972,
+  title={The limits to growth},
+  author={Meadows, Donella H and Meadows, Dennis L and Randers, Jorgen and Behrens, Williams W},
+  journal={New York},
+  volume={102},
+  year={1972}
+}
+
+@article{Messner2000,
+  title={MESSAGE--MACRO: linking an energy supply model with a macroeconomic module and solving it iteratively},
+  author={Messner, Sabine and Schrattenholzer, Leo},
+  journal={Energy},
+  volume={25},
+  number={3},
+  pages={267--282},
+  year={2000},
+  publisher={Elsevier}
+}
+
+@inproceedings{Seebregts2002,
+  title={Energy/environmental modeling with the MARKAL family of models},
+  author={Seebregts, Ad J and Goldstein, Gary A and Smekens, Koen},
+  booktitle={Operations Research Proceedings 2001},
+  pages={75--82},
+  year={2002},
+  organization={Springer}
+}
+
+@book{Shell20xx,
+  title={Future energy scenarios},
+  author={Shell},
+  year={1972-2015},
+  publisher={Royal Dutch Shell}
+}
+
+@article{Slesser1992,
+  title={ECCO: User's Manual},
+  author={Slesser, Malcolm},
+  journal={Resource Use Institute (Ed.). Edinburgh, Scotland},
+  year={1992}
+}
+
+@book{Smith1776,
+  title={An Inquiry into the Nature and Causes of the Wealth of Nations},
+  author={Smith, Adam},
+  publisher={New York: Modern Library, 1937},
+  pages={131},
+  year={1776}
+}
+
+@article{Wiedmann2015,
+  title={The material footprint of nations},
+  author={Wiedmann, Thomas O and Schandl, Heinz and Lenzen, Manfred and Moran, Daniel and Suh, Sangwon and West, James and Kanemoto, Keiichiro},
+  journal={Proceedings of the National Academy of Sciences},
+  volume={112},
+  number={20},
+  pages={6271--6276},
+  year={2015},
+  publisher={National Acad Sciences}
+}
+
